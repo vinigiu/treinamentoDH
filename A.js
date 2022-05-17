@@ -1,2 +1,4 @@
-let nome = "Vinícius";
-let cidade = "Fernandópolis";
+let pessoa = {
+    nome: "Vinícius",
+    cidade: "Pindamonhangaba"
+}
