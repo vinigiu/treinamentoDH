@@ -1,4 +1,4 @@
 let pessoa = {
-    nome: "Vinícius",
-    cidade: "Pindamonhangaba"
-}
+  nome: "Vinícius",
+  cidade: "Pindamonhangaba",
+};
